@@ -1,0 +1,15 @@
+/*
+Theme Name: Astra Child
+Description: Astra Child Theme
+Author: Indra Lukmana
+Author: http://www.indralukmana.com
+Template: astra
+Version: 0.0.1
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: astrachild
+*/
+
+.ast-article-post {
+    margin-bottom: 30px !important;
+}
